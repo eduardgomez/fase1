@@ -1,0 +1,17 @@
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\bin\Debug\net6.0-windows\Factura1.exe
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\bin\Debug\net6.0-windows\Factura1.deps.json
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\bin\Debug\net6.0-windows\Factura1.runtimeconfig.json
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\bin\Debug\net6.0-windows\Factura1.dll
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\bin\Debug\net6.0-windows\Factura1.pdb
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.Form1.resources
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.Properties.Resources.resources
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.csproj.GenerateResource.cache
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.AssemblyInfoInputs.cache
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.AssemblyInfo.cs
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.dll
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\refint\Factura1.dll
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.pdb
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\Factura1.genruntimeconfig.cache
+C:\Users\eduardo\Documents\UDB\c2-2023\Ingeniería de Software\fase1\aplicativo\Factura1\Factura1\obj\Debug\net6.0-windows\ref\Factura1.dll
