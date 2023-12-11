@@ -38,6 +38,7 @@
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
             pictureBox4 = new PictureBox();
+            button3 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -82,6 +83,7 @@
             button1.TabIndex = 3;
             button1.Text = "AGREGAR";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -91,6 +93,7 @@
             button2.TabIndex = 4;
             button2.Text = "BUSCAR";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // pictureBox1
             // 
@@ -132,12 +135,23 @@
             pictureBox4.TabIndex = 8;
             pictureBox4.TabStop = false;
             // 
+            // button3
+            // 
+            button3.Location = new Point(312, 324);
+            button3.Name = "button3";
+            button3.Size = new Size(182, 37);
+            button3.TabIndex = 9;
+            button3.Text = "Generar compra";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ButtonFace;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(pictureBox4);
             Controls.Add(pictureBox3);
             Controls.Add(pictureBox2);
@@ -168,5 +182,6 @@
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
         private PictureBox pictureBox4;
+        private Button button3;
     }
 }

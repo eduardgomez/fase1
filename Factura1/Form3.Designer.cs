@@ -55,6 +55,7 @@
             button2.TabIndex = 1;
             button2.Text = "BUSCAR";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // textBox1
             // 
@@ -95,6 +96,7 @@
             Controls.Add(button1);
             Name = "Form3";
             Text = "Form3";
+            Load += Form3_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
